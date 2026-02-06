@@ -1,5 +1,5 @@
-<H2>FFA Removal from Edible Oils Analysis - Dashboard</H2>
-<p>This project showcases an end-to-end data analysis workflow for understanding Free Fatty Acid (FFA) removal efficiency</p>
+<H2>FFA Removal Analysis Using Industrial Batch Data - Dashboard</H2>
+<p>This project showcases an end-to-end data analysis workflow for understanding Free Fatty Acid (FFA) removal efficiency.</p>
 <ul>
   <li>Collected batch-wise process data (Initial FFA, Final FFA, Temperature, Yield, Deo Time, etc.)</li>
   <li>Cleaned inconsistent values, handled missing entries, standardized units.</li>
