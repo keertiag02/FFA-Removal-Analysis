@@ -14,6 +14,6 @@
   </ul>
 </p>
 <p>This dashboard reflects real industrial scenarios in edible oil processing for FFA removal.</p>
-<img width="500" height="600" alt="Dashboard SS" src="https://github.com/user-attachments/assets/686d24b7-a6ec-4ae7-be29-58ed9451d51d" />
+<img width="500" height="600" alt="Dashboard SS" src="Pictures/Dashboard SS.png" />
 <p>Also, created weekly reports summarizing trends & deviations.</p>
 
